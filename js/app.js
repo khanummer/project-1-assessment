@@ -57,7 +57,7 @@ function render() {
     //     output.style.color = 'red';
     // }
     console.log('render');
-// }
+}
 
 
 
