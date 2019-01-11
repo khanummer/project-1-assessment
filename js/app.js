@@ -55,7 +55,7 @@ function init() {
 function render() {
     // if (parseInt(output.innerHTML.charAt(0)) == '-') {
     //     output.style.color = 'red';
-    }
+    // }
     console.log('render');
 }
 
